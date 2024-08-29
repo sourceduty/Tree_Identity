@@ -11,6 +11,10 @@ In addition to identifying tree species, Tree Identity also provides insights in
 While Tree Identity can provide useful guidance on tree species identification and growth, it is not equipped to make definitive statements about the health of a tree. For detailed assessments, especially concerning tree health issues, Tree Identity encourages users to consult a professional arborist or a plant health specialist. This ensures that users get accurate and reliable information, especially for critical decisions regarding tree care and maintenance.
 
 #
+
+![Tropical Pine Orange Fruit Tree](https://github.com/user-attachments/assets/1e59cde3-cba3-4505-a0b7-a92f1d4b6722)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
