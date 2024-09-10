@@ -42,6 +42,8 @@ While Tree Identity can provide useful guidance on tree species identification a
 [Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator)
 <br>
 [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
+<br>
+[Computational Environmental Science](https://github.com/sourceduty/Computational_Environmental_Science)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
